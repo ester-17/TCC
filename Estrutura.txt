@@ -1,0 +1,43 @@
+Elementos pré textuais
+Capa
+Contracapa
+Lista de ilustrações (acima de 10)
+Lista de QUADROS (acima de 10)
+Sumário
+Elementos textuais
+1.	Percepção da necessidade
+
+Precisamos de um Chatbot para um hospital para pets. É mais acessível do que um app e mais prático.
+
+2.	Levantamento de requisitos
+Necessidade de agendar, organizar fila, tirar dúvidas de forma mais acessível e organizada
+3.	Análise de requisitos
+3.1.	Estudo de viabilidade
+4.	Sistema proposto
+4.1.	Cronograma
+4.2.	Protótipo
+
+
+
+
+
+
+5.	Especificação de requisitos
+5.1.	Requisitos funcionais
+5.2.	Modelagem de dados (DER / Diagrama de Classe / JSON)
+5.3.	Modelagem de processo (Fluxograma / Caso de uso / Diagrama de tempo)
+6.	Requisitos não funcionais
+6.1.	Requisito de hardware
+6.2.	Requisito de software
+7.	Construção
+7.1.	Identidade Visual
+8.	Testes
+9.	Implementação
+9.1.	Entrega (treinamento)
+9.2.	Manutenção
+9.3.	Suporte
+Elementos pós textuais
+Referências bibliográficas
+Apêndice (opcional)
+Anexo (opcional)
+
