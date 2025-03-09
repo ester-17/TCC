@@ -24,15 +24,12 @@ Viabilidade técnica: atrelada ao suporte técnico que a organização oferecer�
 Viabilidade de cronograma: cruzamento entre as atividades levantadas e o tempo estimado para realizá-las; definição de marcos do projeto; impacto de atrasos.
 Outros: viabilidade legal, cultural, marketing, etc.
 
-
 4.	Sistema proposto
 Descrever proposta geral do app ( objetivo)
 4.1.	Cronograma
 Fazer gráfico de Gantt
 4.2.	Protótipo
 Principal funcionalidade do app ( temos q pensar e decidir qual será)
-
-
 
 
 
