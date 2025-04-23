@@ -1,43 +1,36 @@
 Elementos pré textuais
-Capa
-Contracapa
-Lista de ilustrações (acima de 10)
+Capa ✅
+Contracapa ✅
+Lista de ilustrações (acima de 10) 
 Lista de QUADROS (acima de 10)
-Sumário
+Sumário ✅
 Elementos textuais
-1.	Percepção da necessidade
+1.	Percepção da necessidade ✅
+2.	Levantamento de requisitos ✅
+3.	Análise de requisitos ✅
+3.1.	Estudo de viabilidade ✅
 
-Precisamos de um Chatbot para um hospital para pets. É mais acessível do que um app e mais prático.
+Viabilidade organizacional: está relacionada a quanto a solução beneficia a organização. Verifica-se se haverá aderência ao uso da solução por parte dos usuários devido a cultura organizacional e a percepção dos envolvidos; se a solução está alinhada com os objetivos estratégicos da organização; se há compreensão e suporte da alta direção da organização em relação ao projeto, etc.✅
+Viabilidade operacional: está relacionada a quanto a solução se adéqua a organização; quais são os requisitos da solução; o que o cliente espera que o sistema faça;✅
+Viabilidade econômica: análise entre o custo de desenvolvimento e os benefícios após implementação do projeto (custo-benefício).✅
+Viabilidade técnica: atrelada ao suporte técnico que a organização oferecerá para o desenvolvimento do projeto; restrições da equipe ou da tecnologia; necessidade de se investir em pesquisas antes de realizar o projeto; etc.✅
+Viabilidade de cronograma: cruzamento entre as atividades levantadas e o tempo estimado para realizá-las; definição de marcos do projeto; impacto de atrasos.✅
+Outros: viabilidade legal, cultural, marketing, etc.✅
 
-2.	Levantamento de requisitos
-Conhecer sobre a clínica, sobre especialidades e procedimentos, entrar em contato, tirar dúvidas de forma mais acessível e organizada.
-Necessidade de agendar, organizar fila
-
-3.	Análise de requisitos
-Para conhecer sobre a clínica, especialidade e procedimentos é necessário ter uma clínica como base, para entrar em contato precisamos de um número cadastrado para tal fim, etc
-3.1.	Estudo de viabilidade
-
-Viabilidade organizacional: está relacionada a quanto a solução beneficia a organização. Verifica-se se haverá aderência ao uso da solução por parte dos usuários devido a cultura organizacional e a percepção dos envolvidos; se a solução está alinhada com os objetivos estratégicos da organização; se há compreensão e suporte da alta direção da organização em relação ao projeto, etc.
-Viabilidade operacional: está relacionada a quanto a solução se adéqua a organização; quais são os requisitos da solução; o que o cliente espera que o sistema faça;
-Viabilidade econômica: análise entre o custo de desenvolvimento e os benefícios após implementação do projeto (custo-benefício).
-Viabilidade técnica: atrelada ao suporte técnico que a organização oferecerá para o desenvolvimento do projeto; restrições da equipe ou da tecnologia; necessidade de se investir em pesquisas antes de realizar o projeto; etc.
-Viabilidade de cronograma: cruzamento entre as atividades levantadas e o tempo estimado para realizá-las; definição de marcos do projeto; impacto de atrasos.
-Outros: viabilidade legal, cultural, marketing, etc.
-
-4.	Sistema proposto
-Descrever proposta geral do app ( objetivo)
-4.1.	Cronograma
-Fazer gráfico de Gantt
-4.2.	Protótipo
+4.	Sistema proposto ✅
+Descrever proposta geral do app ( objetivo) ✅
+4.1.	Cronograma ✅
+Fazer gráfico de Gantt ✅
+4.2.	Protótipo ✅
 Principal funcionalidade do app ( temos q pensar e decidir qual será)
 
 
 
 
-5.	Especificação de requisitos
-5.1.	Requisitos funcionais
-5.2.	Modelagem de dados (DER / Diagrama de Classe / JSON)
-5.3.	Modelagem de processo (Fluxograma / Caso de uso / Diagrama de tempo)
+5.	Especificação de requisitos ✅
+5.1.	Requisitos funcionais ✅
+5.2.	Modelagem de dados (DER / Diagrama de Classe / JSON) ✅
+5.3.	Modelagem de processo (Fluxograma / Caso de uso / Diagrama de tempo) 
 6.	Requisitos não funcionais
 6.1.	Requisito de hardware
 6.2.	Requisito de software
