@@ -1,0 +1,12 @@
+abrir o app
+já tem login?
+  sim
+    colocar dados
+  não
+    fazer cadastro
+    fazer login
+já está inscrito em uma eletiva?
+  sim
+    mostrar as eletivas em que esta inscrito
+  não
+    mostrar quais existem e opção de inscreverse
